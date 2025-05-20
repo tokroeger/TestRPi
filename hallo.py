@@ -4,8 +4,9 @@ a = 5
 b = 10
 c = b + a
 
-print (a)
-print (b)
+print (c)
+
+print ("text")
 
 print ("Add from Notebook")
 
